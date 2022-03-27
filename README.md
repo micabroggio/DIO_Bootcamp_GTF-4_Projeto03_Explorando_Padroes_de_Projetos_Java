@@ -5,6 +5,8 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Strategy/Repository
 - Facade
 
+Criado em 2022/03/27; Java 11; IntelliJ; Reproduzido de [falvojr](https://github.com/falvojr) por Micael Fernando Broggio
+
 # HELP SPRINTG INITIALIZR
 # Getting Started
 
